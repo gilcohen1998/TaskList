@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tasklist.tasklist.other_activitys.SettingActivity">
+
+
+    <Switch
+        android:id="@+id/night_mode_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="56dp"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintEnd_toEndOf="@+id/yellow_theme_switch"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/yellow_theme_switch"
+        app:layout_constraintTop_toBottomOf="@+id/general_text" />
+
+    <TextView
+        android:id="@+id/night_mode_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:drawableLeft="@drawable/ic_baseline_nights_stay_24"
+        android:drawablePadding="10dp"
+        android:text="@string/night_mode"
+        android:textIsSelectable="false"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/coming_soon_text"
+        app:layout_constraintEnd_toStartOf="@+id/night_mode_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/yellow_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/general_text"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/general_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:fontFamily="@font/bevan"
+        android:text="General :"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toStartOf="@+id/night_mode_switch"
+        app:layout_constraintStart_toEndOf="@+id/night_mode_text"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/coming_soon_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coming soon!"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/night_mode_switch"
+        app:layout_constraintEnd_toStartOf="@+id/night_mode_switch"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toEndOf="@+id/night_mode_text"
+        app:layout_constraintTop_toTopOf="@+id/night_mode_switch"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/yellow_theme_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintEnd_toEndOf="@+id/pink_theme_switch"
+        app:layout_constraintStart_toStartOf="@+id/pink_theme_switch"
+        app:layout_constraintTop_toBottomOf="@+id/night_mode_switch" />
+
+    <TextView
+        android:id="@+id/pink_theme_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="148dp"
+        android:drawableLeft="@drawable/ic_baseline_colorize_241"
+        android:drawablePadding="10dp"
+        android:text="Pink  theme"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/pink_theme_switch"
+        app:layout_constraintEnd_toStartOf="@+id/pink_theme_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/blue_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/yellow_theme_text"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/yellow_theme_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_baseline_colorize_24"
+        android:drawablePadding="10dp"
+        android:text="Yellow theme"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/yellow_theme_switch"
+        app:layout_constraintEnd_toStartOf="@+id/yellow_theme_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/pink_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/night_mode_text"
+        app:layout_constraintVertical_bias="0.944" />
+
+    <Switch
+        android:id="@+id/pink_theme_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintEnd_toEndOf="@+id/blue_theme_switch"
+        app:layout_constraintStart_toStartOf="@+id/blue_theme_switch"
+        app:layout_constraintTop_toBottomOf="@+id/yellow_theme_switch" />
+
+    <TextView
+        android:id="@+id/blue_theme_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="152dp"
+        android:drawableLeft="@drawable/ic_baseline_colorize_243"
+        android:drawablePadding="10dp"
+        android:text="Blue  theme"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/blue_theme_switch"
+        app:layout_constraintEnd_toStartOf="@+id/blue_theme_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/red_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/pink_theme_text"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/blue_theme_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintEnd_toEndOf="@+id/red_theme_switch"
+        app:layout_constraintStart_toStartOf="@+id/red_theme_switch"
+        app:layout_constraintTop_toBottomOf="@+id/pink_theme_switch" />
+
+    <TextView
+        android:id="@+id/red_theme_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="152dp"
+        android:drawableLeft="@drawable/ic_baseline_colorize_247"
+        android:drawablePadding="10dp"
+        android:text="Red   theme"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/red_theme_switch"
+        app:layout_constraintEnd_toStartOf="@+id/red_theme_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/green_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/blue_theme_text"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/red_theme_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintEnd_toEndOf="@+id/green_theme_switch"
+        app:layout_constraintStart_toStartOf="@+id/green_theme_switch"
+        app:layout_constraintTop_toBottomOf="@+id/blue_theme_switch" />
+
+    <TextView
+        android:id="@+id/green_theme_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="52dp"
+        android:drawableLeft="@drawable/ic_baseline_colorize_248"
+        android:drawablePadding="10dp"
+        android:text="Green theme"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/green_theme_switch"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/red_theme_text"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/green_theme_switch"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="416dp"
+        android:layout_marginTop="20dp"
+        android:scaleX="2"
+        android:scaleY="2"
+        app:layout_constraintStart_toEndOf="@+id/green_theme_text"
+        app:layout_constraintTop_toBottomOf="@+id/red_theme_switch" />
+
+    <TextView
+        android:id="@+id/app_info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/bevan"
+        android:text="App info :"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/general_text"
+        app:layout_constraintHorizontal_bias="0.916"
+        app:layout_constraintStart_toStartOf="@+id/general_text"
+        app:layout_constraintTop_toBottomOf="@+id/green_theme_switch"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/version_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Version"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="@+id/the_version_text"
+        app:layout_constraintEnd_toEndOf="@+id/app_info_text"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="@+id/app_info_text"
+        app:layout_constraintTop_toTopOf="@+id/the_version_text"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/the_version_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/version"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toStartOf="@+id/green_theme_switch"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/app_info_text"
+        app:layout_constraintTop_toBottomOf="@+id/app_info_text" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

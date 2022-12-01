@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/about_text"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:autoSizeTextType="uniform"
+        android:text="Hello, welcome to my application my name is Gil Cohen i am studying software engineering second year i hope my application will serve u well, and thank you for installing my application, if u have any question or u find any problem or a bug with my application i would really appreciate it if u will send me a message at my email."
+        app:fontFamily="@font/aclonica"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/email_text"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="24dp"
+        android:drawableRight="@drawable/gmail_icon"
+        android:drawablePadding="10dp"
+        android:gravity="right"
+        android:text="gilc1998@gmail.com"
+        app:autoSizeTextType="uniform"
+        app:fontFamily="@font/bevan"
+        app:layout_constraintEnd_toEndOf="@+id/instagram_text"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/instagram_text"
+        app:layout_constraintTop_toBottomOf="@+id/about_text" />
+
+    <TextView
+        android:id="@+id/instagram_text"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="20dp"
+        android:drawableRight="@drawable/instagram_icon"
+        android:drawablePadding="10dp"
+        android:gravity="right"
+        android:text="gilcohen55"
+        app:autoSizeTextType="uniform"
+        app:fontFamily="@font/bevan"
+        app:layout_constraintEnd_toEndOf="@+id/facebook_text"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/facebook_text"
+        app:layout_constraintTop_toBottomOf="@+id/email_text" />
+
+    <TextView
+        android:id="@+id/facebook_text"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:drawableRight="@drawable/facebook_icon"
+        android:drawablePadding="10dp"
+        android:gravity="right"
+        android:text="גיל כהן"
+        android:textStyle="bold"
+        app:autoSizeTextType="uniform"
+        app:fontFamily="@font/bevan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/instagram_text" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
