@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/blue_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/default_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/green_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_add_circle_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_add_task_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_airline_seat_recline_extra_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_arrow_circle_up_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_calendar_today_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_colorize_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_colorize_241.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_colorize_243.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_colorize_247.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_colorize_248.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_date_range_25.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_next_week_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_nights_stay_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_note_add_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_outlined_flag_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_priority_high_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_today_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_baseline_wb_sunny_24.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/new_add_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/pink_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/red_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_change_date.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_nextweek_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_priority_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_save_button.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_today_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable-v24/yellow_tomorrow_icon.xml" value="0.2235" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/drawable/home.xml" value="0.248" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/abeezee.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/aclonica.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/allerta.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/archivo_black.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/autour_one.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/bevan.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/font/black_ops_one.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/about_activity.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/activity_about.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/bottom_sheet.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/first_time_activity.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/fragment_blank.xml" value="0.1125" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/more_apps_activity.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/settings_activity.xml" value="0.4" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/start_activity.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/layout/todo_row.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hp/Desktop/Tasklist new new/app/src/main/res/menu/menu_main.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

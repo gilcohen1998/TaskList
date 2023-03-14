@@ -1,0 +1,60 @@
+<resources>
+    <string name="gilcohen55">
+    <a href="https://www.google.com/">gilcohen55</a>
+    </string>
+
+    <string name="app_name" translatable="false">Tasklist</string>
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">e.g., Eat less at dinner</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Due Date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_wknd">This Weekend</string>
+    <string name="next_week">Next Week</string>
+    <string name="radio_high">High</string>
+    <string name="radio_med">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Todoist Clone App - by BAWP - version 0.1</string>
+    <string name="add_todos">Add a Todo...</string>
+    <string name="title_activity_wtf">wtf</string>
+    <string name="title_activity_setttings_detail_host">SetttingsActivityDetailHostActivity</string>
+    <string name="title_setttingsactivity_list">settings_activity</string>
+    <string name="title_setttingsactivity_detail">Setttings_Activity Detail</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_new_settings">NewSettingsActivity</string>
+    <string name="more_soon">MORE APPS COMING SOON!</string>
+    <string name="text">text</string>
+    <string name="version">1.0.1</string>
+    <string name="night_mode">Night Mode</string>
+</resources>

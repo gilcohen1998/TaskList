@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bawp.tasklist">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tasks__2_"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/tasks__2_"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.tasklist">
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.FirstTimeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.SettingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.More_apps_Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tasklist.tasklist.other_activitys.StartActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.tasklist">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

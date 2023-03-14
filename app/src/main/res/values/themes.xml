@@ -1,0 +1,107 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.tasklist" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryVariant">#3F51B5</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#3F51B5</item>
+        <item name="colorSecondaryVariant">#3F51B5</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name = "android:navigationBarColor">#3F51B5</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#3F51B5</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="Theme.tasklist.yellowtheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFEB3B</item>
+        <item name="colorPrimaryVariant">#FFEB3B</item>
+        <item name="colorOnPrimary">#FFEB3B</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FFEB3B</item>
+        <item name="colorSecondaryVariant">#FFEB3B</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name = "android:navigationBarColor">#FFEB3B</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#FFEB3B</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.tasklist.bluetheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryVariant">#2196F3</item>
+        <item name="colorOnPrimary">#2196F3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#2196F3</item>
+        <item name="colorSecondaryVariant">#2196F3</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name = "android:navigationBarColor">#2196F3</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#2196F3</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.tasklist.greentheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryVariant">#4CAF50</item>
+        <item name="colorOnPrimary">#4CAF50</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#4CAF50</item>
+        <item name="colorSecondaryVariant">#4CAF50</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name = "android:navigationBarColor">#4CAF50</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#4CAF50</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.tasklist.redtheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimaryVariant">#F44336</item>
+        <item name="colorOnPrimary">#F44336</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F44336</item>
+        <item name="colorSecondaryVariant">#F44336</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name = "android:navigationBarColor">#F44336</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#F44336</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.tasklist.pinktheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F260F8</item>
+        <item name="colorPrimaryVariant">#F260F8</item>
+        <item name="colorOnPrimary">#F260F8</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#F260F8</item>
+        <item name="colorSecondaryVariant">#F260F8</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name = "android:navigationBarColor">#F260F8</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#F260F8</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="Theme.tasklist.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Todoister.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Todoister.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.tasklist.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.tasklist.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
